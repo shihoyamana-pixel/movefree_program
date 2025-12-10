@@ -1,0 +1,13 @@
+悪い指示：
+def get_unique_users(user_list):
+return list(set(user_list))
+このコードはどういう意味ですか。
+
+良い指示：
+あなたは経験豊富なプログラマーです。
+Pythonでコードを入力しています。
+下記のコードの意味を素人でもわかるように解説してください。
+def get_unique_users(user_list):
+return list(set(user_list))
+専門用語を使わず噛み砕いた表現で解説してください。
+このコードを実行するとどんな効果が得られるか、どんな時に使うコードか箇条書きでまとめてください。
