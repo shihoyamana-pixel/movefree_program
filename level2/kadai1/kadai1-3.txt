@@ -1,0 +1,3 @@
+選んだサイトURL：https://www.muji.com/jp/ja/store
+推測するCMSの種類：WordPress
+推測の根拠：スッキリとしたレイアウトでアニメーションも少なくシンプルな構成。商品やイベント情報の更新が頻繁にあるためWordPressと考えられる。ネットショッピングもできるためShopifyの要素もある。
