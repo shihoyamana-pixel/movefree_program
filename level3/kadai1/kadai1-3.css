@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 50px;
+  text-align: center;
+}
+
+.styled-button {
+  transition:
+    background-color 0.2s linear,
+    transform 0.5s ease-in-out 0.1s;
+}
+
+.styled-button:hover {
+  background-color: #e74c3c;
+  transform: scale(1.1);
+}
